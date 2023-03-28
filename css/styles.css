@@ -210,6 +210,7 @@ body {
 .footer-logo {
   display: block;
   margin-bottom: 17.5px;
+  padding: 0;
 }
 .studio {
   color: var(--light);
